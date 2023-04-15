@@ -16,7 +16,7 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 Tech Stack
 <!-- List the technologies and tools you're proficient in -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)](#)
+[![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6C757D?style=flat-square&logo=scikit-learn&logoColor=white)](#)
 [![Neural Network](https://img.shields.io/badge/Neural%20Network-CC0000?style=flat-square&logo=neuralnetwork&logoColor=white)](#)
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2ECC71?style=flat-square&logo=dataanalysis&logoColor=white)](#)
