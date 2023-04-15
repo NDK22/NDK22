@@ -1,4 +1,5 @@
 ![Profile banner](https://github.com/NDK22/NDK22/blob/main/banner.jpg)
+<img src="https://github.com/NDK22/NDK22/blob/main/banner.jpg" alt="Profile Banner" width="200%">
 
 ### Hi there! 👋
 
