@@ -4,8 +4,8 @@
 
 I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas). Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on computer vision applications and exploring new technologies.
-- 🌱 I’m currently learning JavaScript frameworks like React and Node.js.
+- 🔭 I’m currently working on Convolutional Neural Network applications and exploring new technologies.
+- 🌱 I’m currently learning Recurrent Neural Network and LSTM.
 - 💼 I'm open to new opportunities and collaborations.
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/) or [![Email](https://img.shields.io/badge/Email-%230077B5?style=flat-square&logo=email&logoColor=white)](karavattnikhildas@gmail.com).
 - 😄 Pronouns: He/Him
