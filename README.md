@@ -1,7 +1,4 @@
 <img src="https://github.com/NDK22/NDK22/blob/main/banner.png" alt="Profile Banner" width="200%">
-[![My GIF](]https://github.com/NDK22/NDK22/blob/main/banner.gif)](https://github.com/NDK22)
-[![Video Banner](https://example.com/video_preview.png)](https://example.com/video.mp4)
-![banner](https://user-images.githubusercontent.com/121696401/232204950-6fc36d83-ff64-48fb-8628-30f34f9fdddc.gif)
 
 ### Hi there! 👋
 
@@ -13,6 +10,7 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 - 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/) or [![Email](https://img.shields.io/badge/Email-%230077B5?style=flat-square&logo=email&logoColor=white)](karavattnikhildas@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel and try different cuisines!
+![banner](https://user-images.githubusercontent.com/121696401/232205211-87c354fe-c3df-4bda-a806-b20bdc181f03.gif)
 
 Tech Stack
 <!-- List the technologies and tools you're proficient in -->
