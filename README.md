@@ -1,6 +1,7 @@
 <img src="https://github.com/NDK22/NDK22/blob/main/banner.png" alt="Profile Banner" width="200%">
 [![My GIF](]https://github.com/NDK22/NDK22/blob/main/banner.gif)](https://github.com/NDK22)
 [![Video Banner](https://example.com/video_preview.png)](https://example.com/video.mp4)
+![banner](https://user-images.githubusercontent.com/121696401/232204950-6fc36d83-ff64-48fb-8628-30f34f9fdddc.gif)
 
 ### Hi there! 👋
 
