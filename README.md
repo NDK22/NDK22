@@ -1,4 +1,5 @@
 <img src="https://github.com/NDK22/NDK22/blob/main/banner.png" alt="Profile Banner" width="200%">
+[![My GIF](https://example.com/my-gif.gif)](https://github.com/YourUserName)
 [![Video Banner](https://example.com/video_preview.png)](https://example.com/video.mp4)
 
 ### Hi there! 👋
