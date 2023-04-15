@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/121696401/232205211-87c354fe-c3df-4bda-a806-b20bdc181f03.gif" alt="banner" width="500" height="200">
-</div>
+</p>
 ### Hi there! 👋
 
 I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas). Welcome to my GitHub profile! 
