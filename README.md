@@ -13,21 +13,21 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 
 Tech Stack
 <!-- List the technologies and tools you're proficient in -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=machinelearning&logoColor=white" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Neural%20Network-CC0000?style=flat-square&logo=neuralnetwork&logoColor=white" alt="Neural Network">
-<img src="https://img.shields.io/badge/Data%20Analysis-2ECC71?style=flat-square&logo=dataanalysis&logoColor=white" alt="Data Analysis">
-<img src="https://img.shields.io/badge/Data%20Visualization-8E44AD?style=flat-square&logo=datavisualization&logoColor=white" alt="Data Visualization">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy">
-<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-741B47?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white", alt="Keras">
+[![Neural Network](https://img.shields.io/badge/Neural%20Network-CC0000?style=flat-square&logo=neuralnetwork&logoColor=white)](#)
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2ECC71?style=flat-square&logo=dataanalysis&logoColor=white)](#)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-8E44AD?style=flat-square&logo=datavisualization&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](#)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)](#)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-741B47?style=flat-square&logo=seaborn&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+
 
 ### My GitHub Stats
 <!-- Show your GitHub stats using GitHub Readme Stats -->
