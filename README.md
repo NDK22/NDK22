@@ -9,7 +9,7 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel and try different cuisines!
 
-![Profile banner](https://your-image-url.com/banner-image.png)
+![Profile banner](https://www.canva.com/design/DAFgJxPeg5Y/f1JzlmGAuhrlTwSxHN2XSg/view?utm_content=DAFgJxPeg5Y&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 
 Tech Stack
 <!-- List the technologies and tools you're proficient in -->
