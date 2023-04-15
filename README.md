@@ -8,9 +8,7 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 - 🔭 I’m currently working on Convolutional Neural Network applications and exploring new technologies.
 - 🌱 I’m currently learning Recurrent Neural Network and LSTM.
 - 💼 I'm open to new opportunities and collaborations.
-- 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/) or <a href="mailto:karavattnikhildas@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+- 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/) or [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karavattnikhildas@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel and try different cuisines!
 
