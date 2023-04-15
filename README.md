@@ -34,5 +34,5 @@ Tech Stack
 ### Let's Connect
 <!-- Add social media links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-url/)
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://your-website-url.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KaravattNikhil)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikhildaskaravatt/)
