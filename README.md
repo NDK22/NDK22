@@ -1,4 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/121696401/232205211-87c354fe-c3df-4bda-a806-b20bdc181f03.gif)
+<img src="https://user-images.githubusercontent.com/121696401/232205211-87c354fe-c3df-4bda-a806-b20bdc181f03.gif" alt="banner" width="500" height="200">
 
 ### Hi there! 👋
 
