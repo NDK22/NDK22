@@ -28,6 +28,6 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 
 ### Let's Connect
 <!-- Add social media links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-url/)
 [![Website](https://img.shields.io/badge/Website-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://your-website-url.com/)
