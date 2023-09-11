@@ -33,11 +33,6 @@ Tech Stack
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
-
-### My GitHub Stats
-<!-- Show your GitHub stats using GitHub Readme Stats -->
-[![NDK22's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDK22&theme=dracula&show_icons=true&count_private=true)](https://github.com/NDK22)
-[![GitHub Streak](https://streak-stats.demolab.com?user=NDK22&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ### Let's Connect
 <!-- Add social media links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/)
