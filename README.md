@@ -38,9 +38,3 @@ Tech Stack
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KaravattNikhil)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikhildaskaravatt/)
-
-### My GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=NDK22&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDK22&show_icons=true)
