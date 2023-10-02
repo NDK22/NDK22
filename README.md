@@ -40,4 +40,4 @@ Tech Stack
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikhildaskaravatt/)
 
 ### My GitHub Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=nelson123-lab&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NDK22&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
