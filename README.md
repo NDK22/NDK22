@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/121696401/232205914-b2b91d90-0abb-4de8-ae98-a4e95907135e.gif" alt="banner" width="500" height="200">
 </p>
 
-##Hi there! 👋
+## Hi there! 👋
 
 I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas).
 - 🔭 I’m currently working on an AI coach that improves your golf swing and exploring new technologies.
