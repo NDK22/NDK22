@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/121696401/232205914-b2b91d90-0abb-4de8-ae98-a4e95907135e.gif" alt="banner" width="500" height="200">
+<img src="https://github.com/NDK22/NDK22/blob/main/data.gif" alt="banner" width="500" height="200">
 </p>
 
 # Hi there! 👋
