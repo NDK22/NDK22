@@ -8,7 +8,7 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 - ⚡ Fun fact: I love to travel and try different cuisines!
 
 <p align="center">
-<img src="https://github.com/NDK22/NDK22/blob/main/data.gif" alt="banner" width="500" height="200">
+<img src="https://github.com/NDK22/NDK22/blob/main/data.gif" alt="banner" width="400" height="200">
 </p>
 
 ## Tech Stack
