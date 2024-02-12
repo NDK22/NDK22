@@ -2,17 +2,16 @@
 <img src="https://user-images.githubusercontent.com/121696401/232205914-b2b91d90-0abb-4de8-ae98-a4e95907135e.gif" alt="banner" width="500" height="200">
 </p>
 
-## Hi there! 👋
+# Hi there! 👋
 
 I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas).
 - 🔭 I’m currently working on an AI coach that improves your golf swing and Detecting DeepFake Videos.
 - 🌱 I’m currently learning about Depth Cameras.
 - 💼 I'm open to new opportunities and collaborations.
-- 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/) or [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karavattnikhildas@gmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love to travel and try different cuisines!
 
-Tech Stack
+## Tech Stack
 <!-- List the technologies and tools you're proficient in -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
@@ -33,8 +32,9 @@ Tech Stack
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
-### Let's Connect
+## 📫 Let's Connect
 <!-- Add social media links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KaravattNikhil)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikhildaskaravatt/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=flat-square&logo=portfolio&logoColor=white)](https://nikhildaskaravatt.com/)
