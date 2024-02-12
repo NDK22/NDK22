@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/NDK22/NDK22/blob/main/data.gif" alt="banner" width="500" height="200">
-</p>
-
 # Hi there! 👋
 
 I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas).
@@ -10,6 +6,10 @@ I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United St
 - 💼 I'm open to new opportunities and collaborations.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love to travel and try different cuisines!
+
+<p align="center">
+<img src="https://github.com/NDK22/NDK22/blob/main/data.gif" alt="banner" width="500" height="200">
+</p>
 
 ## Tech Stack
 <!-- List the technologies and tools you're proficient in -->
