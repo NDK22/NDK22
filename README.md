@@ -13,9 +13,7 @@ Hi, I'm Nikhil Das Karavatt!
 
  </p>
 
-
-I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas).
-- 🔭 I’m currently working on an AI coach that improves your golf swing and Detecting DeepFake Videos.
+- 🔭 I’m currently working on an AI coach that will help improve your golf swing.
 - 🌱 I’m currently learning about Depth Cameras.
 - 💼 I'm open to new opportunities and collaborations.
 - 😄 Pronouns: He/Him.
