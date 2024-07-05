@@ -2,7 +2,14 @@
 Hi, I'm Nikhil Das Karavatt!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=nkd22&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ndk22" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000000&center=true&vCenter=true&random=false&width=435&lines=Masters+in+Data+Science;AI%2FML+Enthusiast)](https://git.io/typing-svg)
+
+
+<br/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=000000&center=true&vCenter=true&random=false&width=435&lines=Masters+in+Data+Science;AI%2FML+Enthusiast" alt="Typing SVG" /></a>
+
+<hr/>
 
  </p>
 
