@@ -3,6 +3,9 @@ Hi, I'm Nikhil Das Karavatt!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=nkd22&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="ndk22" />
 
+
+ </p>
+
  <br/>
 I'm Nikhil Das Karavatt, a passionate data scientist based in [Dallas, United States of America](https://en.wikipedia.org/wiki/Dallas).
 - 🔭 I’m currently working on an AI coach that improves your golf swing and Detecting DeepFake Videos.
