@@ -44,6 +44,14 @@ Hi, I'm Nikhil Das Karavatt!
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinjosechittilappilly&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
+
 ## 📫 Let's Connect
 <!-- Add social media links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-das-karavatt/)
